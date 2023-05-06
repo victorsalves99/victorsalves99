@@ -27,4 +27,3 @@
 ### Completamente apaixonado por programação, café e pets!
 
 
-![snake gif](https://github.com/victorsalves99/victorsalves99/blob/output/github-contribution-grid-snake.svg)
